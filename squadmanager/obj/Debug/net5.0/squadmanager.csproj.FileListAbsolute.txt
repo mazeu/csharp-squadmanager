@@ -38,3 +38,7 @@ D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\obj\Debug\net5.0\sq
 D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\obj\Debug\net5.0\squadmanager.genruntimeconfig.cache
 D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\obj\Debug\net5.0\ref\squadmanager.dll
 D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\obj\Debug\net5.0\squadmanager.csproj.CopyComplete
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\FluentValidation.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\obj\Debug\net5.0\squadmanager.MvcApplicationPartsAssemblyInfo.cs

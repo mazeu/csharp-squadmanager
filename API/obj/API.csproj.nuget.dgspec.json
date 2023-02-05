@@ -1,0 +1,119 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\API\\API.csproj": {}
+  },
+  "projects": {
+    "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\API\\API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\Commom\\Commom.csproj": {
+                "projectPath": "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\Commom\\Commom.csproj"
+              },
+              "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\Commom\\Commom.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\Commom\\Commom.csproj",
+        "projectName": "Commom",
+        "projectPath": "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\Commom\\Commom.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\Repository\\Repository.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\Repository\\Repository.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\Commom\\Commom.csproj": {
+                "projectPath": "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\Commom\\Commom.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

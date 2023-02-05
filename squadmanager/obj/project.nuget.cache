@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8tqJkhNUOZaxUTwVvem7OpH2R6AyeBbsk+6Q8rkTbbqh8WSRla8GYEIDWsqRt7YPDZyhqHuZbP+9nCWcdoT0/w==",
+  "dgSpecHash": "XbSM0Mni7ykWNXbREIaTKZe1lvWVhWvZvpY7kEwDL2buvX73ltz5uxilWh90ys6Tu9xh6RjVioCeIVY2jY8X0Q==",
   "success": true,
   "projectFilePath": "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\squadmanager\\squadmanager.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []

@@ -2,8 +2,8 @@
 {
     public class UserViewModel
     {
-        private string Username { get; set; }
-        private string Email { get; set; }
-        private string Passsword { get; set; }
+        public string Username { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
     }
 }

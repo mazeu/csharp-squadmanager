@@ -1,0 +1,9 @@
+D:\projetos-programas\c-sharp\asp5\squadmanager\Repository\bin\Debug\Repository.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\Repository\bin\Debug\Repository.pdb
+D:\projetos-programas\c-sharp\asp5\squadmanager\Repository\bin\Debug\Commom.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\Repository\bin\Debug\Commom.pdb
+D:\projetos-programas\c-sharp\asp5\squadmanager\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+D:\projetos-programas\c-sharp\asp5\squadmanager\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\projetos-programas\c-sharp\asp5\squadmanager\Repository\obj\Debug\Repository.csproj.CopyComplete
+D:\projetos-programas\c-sharp\asp5\squadmanager\Repository\obj\Debug\Repository.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\Repository\obj\Debug\Repository.pdb

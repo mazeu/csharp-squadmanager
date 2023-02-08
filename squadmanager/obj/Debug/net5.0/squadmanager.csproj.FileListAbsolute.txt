@@ -42,3 +42,17 @@ D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\Fl
 D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
 D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\obj\Debug\net5.0\squadmanager.MvcApplicationPartsAssemblyInfo.cs
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\API.deps.json
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\API.runtimeconfig.json
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\API.exe
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\API.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\Commom.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\Repository.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\API.pdb
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\Commom.pdb
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\Repository.pdb

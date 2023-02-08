@@ -1,0 +1,10 @@
+D:\projetos-programas\c-sharp\asp5\squadmanager\Commom\bin\Debug\Commom.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\Commom\bin\Debug\Commom.pdb
+D:\projetos-programas\c-sharp\asp5\squadmanager\Commom\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\Commom\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\Commom\bin\Debug\Microsoft.Analytics.Types.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\Commom\obj\Debug\Commom.csproj.AssemblyReference.cache
+D:\projetos-programas\c-sharp\asp5\squadmanager\Commom\obj\Debug\Commom.csproj.CoreCompileInputs.cache
+D:\projetos-programas\c-sharp\asp5\squadmanager\Commom\obj\Debug\Commom.csproj.CopyComplete
+D:\projetos-programas\c-sharp\asp5\squadmanager\Commom\obj\Debug\Commom.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\Commom\obj\Debug\Commom.pdb

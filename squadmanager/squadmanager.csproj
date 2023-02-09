@@ -13,4 +13,8 @@
     <ProjectReference Include="..\Commom\Commom.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Home\" />
+  </ItemGroup>
+
 </Project>

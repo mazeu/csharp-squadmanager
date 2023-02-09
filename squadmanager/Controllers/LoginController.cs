@@ -29,6 +29,11 @@ namespace squadmanager.Controllers
             return View("Index", user);
         }
 
+        public IActionResult Signup()
+        {
+            return View();
+        }
+
         [HttpPost]
         public IActionResult Test(UserViewModel user)
         {
@@ -36,5 +41,7 @@ namespace squadmanager.Controllers
             user.Email = "email enviado";
             return View("Index", user);
         }
+
+
     }
 }

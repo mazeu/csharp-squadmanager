@@ -1,4 +1,7 @@
-﻿using Commom;
+﻿using System;
+using API.Validator;
+using Commom;
+using FluentValidation.Results;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -27,10 +30,28 @@ namespace API.Controllers
             }
           
         }
-
+        /// <summary>
+        /// Api para criação de usuario
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
         [HttpPost("create")]
         public IActionResult Create(UserModel user)
         {
+
+            UserValidator validator = new UserValidator();
+
+            ValidationResult results = validator.Validate(user);
+
+            if (!results.IsValid)
+            {
+                foreach (var failure in results.Errors)
+                {
+                    Console.WriteLine("Property " + failure.PropertyName + " failed validation. Error was: " + failure.ErrorMessage);
+                }
+            }
+
+
             if (user.Password == "123")
             {
                 return Ok(new { response = "ok" });
@@ -40,6 +61,16 @@ namespace API.Controllers
                 return Ok(new { response = "Error" });
             }
 
+        }
+        /// <summary>
+        /// Api para resetar a senha
+        /// </summary>
+        /// <param name="email"></param>
+        /// <returns></returns>
+        [HttpPost("forgot")]
+        public IActionResult Forgot([FromBody] string email)
+        {
+            return Ok(new { response = "ok" });
         }
     }
 }

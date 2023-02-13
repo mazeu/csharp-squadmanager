@@ -30,3 +30,6 @@ D:\projetos-programas\c-sharp\asp5\squadmanager\API\obj\Debug\net5.0\refint\API.
 D:\projetos-programas\c-sharp\asp5\squadmanager\API\obj\Debug\net5.0\API.pdb
 D:\projetos-programas\c-sharp\asp5\squadmanager\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 D:\projetos-programas\c-sharp\asp5\squadmanager\API\obj\Debug\net5.0\ref\API.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\API\bin\Debug\net5.0\FluentValidation.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\projetos-programas\c-sharp\asp5\squadmanager\API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll

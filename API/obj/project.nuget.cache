@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ADXUkJgR9F/uXQvkpF8lEt8mcjbhaCldGm0qEOFT8vqqX5V33S7LSXs8fDDAX09DFi7Iro9djetc+YCWK9L11w==",
+  "dgSpecHash": "hw8wSU0t3aIdz+fuOdSzRyffwjGnzW34J2M3VRy9Qb/d7Sjh/t1U0Mzsj0Ze3NclvYuLkQc9WmvQjTZlaFZz2Q==",
   "success": true,
   "projectFilePath": "D:\\projetos-programas\\c-sharp\\asp5\\squadmanager\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",

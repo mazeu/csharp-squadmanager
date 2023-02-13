@@ -11,9 +11,9 @@
 
 	<h1>Autenticação</h1>
 	<form>
-	<input type="text" name="email" value="@Model.Email" placeholder="Username / Email" id="email"/>
-	<input type="password" required name="password" value="" placeholder="Senha" id="password"/>
-	<a href="#">Esqueceu a senha</a>
+	<input required type="text" name="email" value="@Model.Email" placeholder="Username / Email" id="email"/>
+	<input required type="password" name="password" value="" placeholder="Senha" id="password"/>
+	<a href="/Login/forgot">Esqueceu a senha</a>
 
 	<button type="submit" onclick="login(event)">Login</button>
 	</form>

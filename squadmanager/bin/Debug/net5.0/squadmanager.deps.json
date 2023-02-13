@@ -431,6 +431,7 @@
       "API/1.0.0": {
         "dependencies": {
           "Commom": "1.0.0",
+          "FluentValidation.AspNetCore": "11.2.2",
           "Repository": "1.0.0",
           "Swashbuckle.AspNetCore": "5.6.3"
         },

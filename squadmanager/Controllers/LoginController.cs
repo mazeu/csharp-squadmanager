@@ -34,6 +34,11 @@ namespace squadmanager.Controllers
             return View();
         }
 
+        public IActionResult Forgot()
+        {
+            return View();
+        }
+
         [HttpPost]
         public IActionResult Test(UserViewModel user)
         {

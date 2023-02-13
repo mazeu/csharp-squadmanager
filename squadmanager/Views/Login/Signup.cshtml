@@ -9,11 +9,14 @@
 <section>
 
 	<h1>Crie a sua conta de graça.</h1>
-	<form>
-		<input id="username" placeholder="username"/>
-		<input id="email" placeholder="E-mail"/>
-		<input id="password" placeholder="Senha"/>
-		<input id="confirmPassword"placeholder="Confirmar Senha"/>
+	<form id="formSignup">
+		<input type="text" id="username" placeholder="username" class="uppercase"/>
+		<input type="email" id="email" placeholder="E-mail" />
+		<input type="password" id="password" placeholder="Senha" class="password"/>
+		<input type="password" id="confirmPassword" placeholder="Confirmar Senha" class="password"/>
+		<div class="error">
+			<span>Passwords são diferentes</span>
+		</div>
 		<button type="submit" onclick="login(event)">Criar</button>
 		<a href="/login">Voltar</a>
 	</form>

@@ -55,3 +55,4 @@ D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\AP
 D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\Commom.pdb
 D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\bin\Debug\net5.0\Repository.pdb
 D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\obj\Debug\net5.0\Razor\Views\Login\Signup.cshtml.g.cs
+D:\projetos-programas\c-sharp\asp5\squadmanager\squadmanager\obj\Debug\net5.0\Razor\Views\Login\Forgot.cshtml.g.cs

@@ -29,3 +29,29 @@ button {
     background-color:#7dc87d;
     border:none;
 }
+
+.error {
+    height: 20px;
+    display: none;
+}
+   .error span {
+        color: red;
+    }
+
+   input {
+       padding:3px;
+   }
+   .password {
+       font-size:14px;
+       font-h
+   }
+.textValidation{
+    color:red;
+}
+
+.textValidation:focus {
+    border-style: red;
+}
+.uppercase{
+   text-transform:uppercase;
+}

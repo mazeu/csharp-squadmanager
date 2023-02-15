@@ -1,0 +1,27 @@
+﻿@page
+@model squadmanager.Views.Login.SignupModel
+@{
+	Layout = null;
+}
+
+<link rel="stylesheet" href="~/css/Login.css" />
+
+<section>
+
+	<h1>Redefinir a senha.</h1>
+	<form id="formReset">
+
+		<input type="password" id="password" placeholder="Senha" />
+		<input type="password" id="confirmPassword" placeholder="Confirmar senha" />
+
+		<div class="error">
+			<span>Passwords são diferentes</span>
+		</div>
+
+		<button type="submit" onclick="reset(event)">Enviar</button>
+		<a href="/login">Voltar</a>
+	</form>
+</section>
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/js/ResetPassword.js"></script>

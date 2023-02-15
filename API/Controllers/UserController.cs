@@ -72,5 +72,16 @@ namespace API.Controllers
         {
             return Ok(new { response = "ok" });
         }
+
+        /// <summary>
+        /// Api para resetar a senha
+        /// </summary>
+        /// <param name="email"></param>
+        /// <returns></returns>
+        [HttpPost("reset")]
+        public IActionResult Reset( UserModel user)
+        {
+            return Ok(new { response = "ok" });
+        }
     }
 }

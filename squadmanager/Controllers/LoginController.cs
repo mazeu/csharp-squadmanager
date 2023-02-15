@@ -38,6 +38,10 @@ namespace squadmanager.Controllers
         {
             return View();
         }
+        public IActionResult Reset()
+        {
+            return View();
+        }
 
         [HttpPost]
         public IActionResult Test(UserViewModel user)

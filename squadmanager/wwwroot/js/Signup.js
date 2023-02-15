@@ -36,10 +36,6 @@ $(document).ready(function () {
         
     });
     
-
-    
-
-  
 });
 
 
